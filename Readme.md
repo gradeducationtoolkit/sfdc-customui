@@ -15,6 +15,7 @@ This is collection of UI Components
 
 * Download / Upload this component into your SFDC Orgs
 * Use the components inside the visualforce page
+
 ```
 <apex:page>
 
