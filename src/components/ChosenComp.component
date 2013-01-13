@@ -1,0 +1,28 @@
+<apex:component >
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.11/chosen.jquery.min.js"></script>
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/chosen/0.9.11/chosen.css"></link>
+
+<script>
+var $j_chosen = jQuery.noConflict();
+$j_chosen(document).ready(function(){
+	chosen_init();
+});
+
+function chosen_init(){
+	// hide all options
+	$j_chosen('select[multiple="multiple"]').hide();
+	$j_chosen('select[id$="_selected"]').hide();
+	$j_chosen('select[id$="_unselected"]').hide();
+	
+	$j_chosen('select').not('[multiple="multiple"]').not('[id$="_selected"]').not('[id$="_unselected"]').chosen();
+
+	// hide all button
+	$j_chosen('.multiSelectPicklistCell').hide();
+	
+	// make all container wide
+	$j_chosen('.chzn-container-multi, .chzn-drop').css('min-width', '250px');
+}
+</script>
+
+</apex:component>

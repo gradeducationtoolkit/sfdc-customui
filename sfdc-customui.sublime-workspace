@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"objec",
+				"objectOptions"
+			],
+			[
+				"SObject",
+				"SObjectType"
+			],
+			[
+				"g",
+				"getGlobalDescribe"
+			],
+			[
+				"boo",
+				"twitter-bootstrap"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"sni",
+				"Snippet: if"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cop",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"copy",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"gith",
+				"Github: Open File"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/sts-3.1-workspace/challenge-1982/Readme.md",
+		"/opt/sts-3.1-workspace/sfdc-customui/sfdc-customui.sublime-project",
+		"/opt/sts-3.1-workspace/sfdc-customui/.gitignore",
+		"/opt/sts-3.1-workspace/sfdc-customui/config/.session",
+		"/opt/sts-3.1-workspace/sfdc-customui/config/settings.yaml",
+		"/opt/sts-3.1-workspace/sfdc-customui/config/.org_metadata",
+		"/opt/sts-3.1-workspace/sfdc-customui/src/components/ChosenComp.component",
+		"/opt/sts-3.1-workspace/sfdc-customui/src/components/BootstrapComponent.component",
+		"/opt/sts-3.1-workspace/globalFilterList/build.properties",
+		"/opt/sts-3.1-workspace/globalFilterList/src/pages/ProductSearch.page",
+		"/opt/sts-3.1-workspace/globalFilterList/src/components/workbench.component",
+		"/opt/sts-3.1-workspace/globalFilterList/src/classes/workbenchController.cls",
+		"/opt/sts-3.1-workspace/globalFilterList/src/classes/filterListController.cls",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/opt/sts-3.1-workspace/globalFilterList/src/components/filterList.component",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/mavensmate.sublime-settings",
+		"/Users/sannymulyono/Documents/LMS/Edunova/demo-data/data-staging2/maps-data.ods",
+		"/opt/sts-3.1-workspace/challenge-2007/build.properties",
+		"/opt/sts-3.1-workspace/challenge-2007/README.md",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/Users/sannymulyono/Documents/LMS/Edunova/demo-data/data-staging2/Preq-steps.txt",
+		"/Users/sannymulyono/Documents/LMS/Edunova/demo-data/data-staging2/Demo-Preparation.txt",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/sannymulyono/Documents/EC2_BUILD/BaseAppServer-PHP-build.txt",
+		"/opt/sts-3.1-workspace/challenge-1982/src/pages/UploadContents.page",
+		"/opt/sts-Workspaces/moodle-core/enrol/novailms/externallib/extlib.php",
+		"/opt/sts-Workspaces/moodle-core/enrol/novailms/mforcelib/lib.php",
+		"/opt/sts-Workspaces/moodle-core/enrol/novailms/lib.php",
+		"/opt/sts-Workspaces/integratedlms-website/application/views/products.php",
+		"/opt/sts-Workspaces/integratedlms-website/application/controllers/cview.php",
+		"/opt/sts-Workspaces/integratedlms-website/application/views/products_gold.php",
+		"/opt/sts-Workspaces/integratedlms-website/application/views/home.php",
+		"/opt/sts-Workspaces/integratedlms-website/resources/css/ilms.css",
+		"/opt/sts-Workspaces/integratedlms-website/application/views/templates/main_template.php",
+		"/opt/sts-Workspaces/integratedlms-website/application/controllers/basic_request.php",
+		"/opt/sts-Workspaces/integratedlms-website/application/views/layout/bigImageSpotlight.php",
+		"/opt/sts-Workspaces/integratedlms-website/resources/css/products.css",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/AutoCopyright/AutoCopyright.sublime-settings",
+		"/opt/sts-Workspaces/integratedlms-website/application/views/overview.php",
+		"/opt/sts-Workspaces/integratedlms-website/index.php",
+		"/opt/sts-Workspaces/integratedlms-website/development_mode",
+		"/opt/sts-Workspaces/integratedlms-website/application/config/config.php",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/opt/sts-Workspaces/integratedlms-website/application/controllers/index.html",
+		"/opt/sts-3.1-workspace/challenge-2007-res/soe-magic-query-9a953b614749/src/pages/product_query.page",
+		"/opt/sts-3.1-workspace/challenge-2007-res/soe-magic-query-9a953b614749/src/classes/productQueryController.cls",
+		"/opt/sts-3.1-workspace/challenge-2009/typeahead/js/demo.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getRecords(",
+			"selected",
+			"SObjectName",
+			"newmarkets",
+			"Market__c",
+			"tab",
+			"folder",
+			"instances",
+			"productTable",
+			"goldProduct",
+			"centerAlign",
+			"searchProducts",
+			"getValueTypes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 197.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"novailmslib",
+				"moodle-core/enrol/novailms/lib.php"
+			],
+			[
+				"main_template",
+				"application/views/templates/main_template.php"
+			],
+			[
+				"base",
+				"application/controllers/basic_request.php"
+			],
+			[
+				"home.",
+				"application/views/home.php"
+			],
+			[
+				"bigimage",
+				"application/views/layout/bigImageSpotlight.php"
+			],
+			[
+				"home",
+				"application/views/home.php"
+			],
+			[
+				"product_go",
+				"application/views/products_gold.php"
+			],
+			[
+				"basicrequest",
+				"application/controllers/basic_request.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true
+}
