@@ -3,4 +3,14 @@
     <apiVersion>26.0</apiVersion>
     <description>This is a generic template for Visualforce Component.  With this template, you may adjust the default elements and values and add new elements and values.</description>
     <label>BootstrapComponent</label>
+    <packageVersions>
+        <majorNumber>2</majorNumber>
+        <minorNumber>0</minorNumber>
+        <namespace>npe03</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>2</majorNumber>
+        <minorNumber>30</minorNumber>
+        <namespace>shc</namespace>
+    </packageVersions>
 </ApexComponent>

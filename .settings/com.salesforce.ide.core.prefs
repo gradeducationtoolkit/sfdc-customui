@@ -1,5 +1,6 @@
+#Wed Mar 06 22:06:31 PST 2013
 eclipse.preferences.version=1
-endpointApiVersion=26.0
+endpointApiVersion=25.0
 endpointEnvironment=Production/Developer Edition
 endpointServer=www.salesforce.com
 httpsProtocol=true

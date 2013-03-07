@@ -13,7 +13,21 @@
    	#bootstrap-panel ul li,
    	.bootstrap-panel ul li {
    		margin : 0px !important;
-   	}	
+   	}
+    /* transparent is better */
+    #bootstrap-panel, .bootstrap-panel {
+       background-color: transparent;
+    }
+    
+    #bootstrap-panel .nopadding,
+    .bootstrap-panel .nopadding {
+      padding : 0px !important;  
+    }
+    
+    body #bootstrap-panel .btn, 
+    body .bootstrap-panel .btn {
+      background-image : none !important; /* handle IE */
+    }   		
    </style>
    
    <script>

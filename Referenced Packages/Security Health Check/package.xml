@@ -211,5 +211,5 @@
         <members>State__c.SendReport_validation_rule</members>
         <name>ValidationRule</name>
     </types>
-    <version>26.0</version>
+    <version>25.0</version>
 </Package>

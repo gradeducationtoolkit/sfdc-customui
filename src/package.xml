@@ -9,5 +9,5 @@
         <members>sfdc_bootstrap</members>
         <name>StaticResource</name>
     </types>
-    <version>26.0</version>
+    <version>25.0</version>
 </Package>
