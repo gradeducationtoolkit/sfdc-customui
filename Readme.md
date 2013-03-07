@@ -15,7 +15,7 @@ This is collection of UI Components
 
 ## How to Use
 
-* Upload this (component / unmanaged package) [https://login.salesforce.com/packaging/installPackage.apexp?p0=04tE0000000UoKI] into your SFDC Orgs
+* Upload this [component / unmanaged package] (https://login.salesforce.com/packaging/installPackage.apexp?p0=04tE0000000UoKI) into your SFDC Orgs
 * Use the components inside the visualforce page
 
 ```
