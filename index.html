@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Sfdc-customui : Custom UI Components used in SFDC" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Sfdc-customui</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/smulyono/sfdc-customui">View on GitHub</a>
+
+          <h1 id="project_title">Sfdc-customui</h1>
+          <h2 id="project_tagline">Custom UI Components used in SFDC</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/smulyono/sfdc-customui/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/smulyono/sfdc-customui/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>Custom UI Components</h1>
+
+<p>This is collection of UI Components</p>
+
+<h2>Collections</h2>
+
+<ul>
+<li><p>Bootstrap
+bootstrap component which can be used inside visualforce page and keep the SFDC standard stylesheet intact. More information <a href="http://smulyono.github.com/sfdc-bootsrap">here</a></p></li>
+<li><p>Chosen
+Using chosen library to change the combobox looks better</p></li>
+</ul><h2>How to Use</h2>
+
+<ul>
+<li>Download / Upload this component into your SFDC Orgs</li>
+<li>Use the components inside the visualforce page</li>
+</ul><pre><code>&lt;apex:page&gt;
+
+&lt;!-- put / drop it to the page --&gt;
+&lt;c:bootstrapcomponent /&gt;
+&lt;c:chosencomp /&gt;
+&lt;script type="text/javascript"&gt;
+// to use javascript with bootstrap
+$j_bootstrap(document).ready(function(){
+
+});
+
+// to use javascript with chosen
+$j_chosen(document).ready(function(){
+
+
+});
+&lt;/script&gt;
+&lt;/apex&gt;
+
+</code></pre>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Sfdc-customui maintained by <a href="https://github.com/smulyono">smulyono</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
