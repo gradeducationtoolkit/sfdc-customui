@@ -8,9 +8,4 @@
         <minorNumber>0</minorNumber>
         <namespace>npe03</namespace>
     </packageVersions>
-    <packageVersions>
-        <majorNumber>2</majorNumber>
-        <minorNumber>30</minorNumber>
-        <namespace>shc</namespace>
-    </packageVersions>
 </ApexComponent>

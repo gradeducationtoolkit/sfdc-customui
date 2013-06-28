@@ -133,5 +133,5 @@
         <members>Recurring_Donation__c.Refresh_Opportunities</members>
         <name>WebLink</name>
     </types>
-    <version>25.0</version>
+    <version>27.0</version>
 </Package>
